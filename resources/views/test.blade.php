@@ -1,7 +1,7 @@
 @extends('base')
 
 @section('content')
-    <h1>Выполнитет задание - Вариант №1</h1>
+    <h1>Выполните задание - Вариант №1</h1>
 
     <form action="{{ @route('test-check') }}"
           method="post">
@@ -12,15 +12,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id1">Задание 1</label>
+                        <label for="id1">This able ... assembles a common application</label>
                     </div>
                     <select name="id1"
                             class="form-control col-4"
                             id="id1">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">right</option>
+                        <option value="2">card</option>
+                        <option value="3">desire</option>
+                        <option value="4">manufacturer</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -32,15 +32,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id2">Задание 2</label>
+                        <label for="id2">The stupid creator finds an usual ...</label>
                     </div>
                     <select name="id2"
                             class="form-control col-4"
                             id="id2">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">register</option>
+                        <option value="2">spice-cake</option>
+                        <option value="3">vobla</option>
+                        <option value="4">cedarnut</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -52,15 +52,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id3">Задание 3</label>
+                        <label for="id3">The able ... uses a mentioned element</label>
                     </div>
                     <select name="id3"
                             class="form-control col-4"
                             id="id3">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">tendency</option>
+                        <option value="2">charge</option>
+                        <option value="3">mechanic</option>
+                        <option value="4">discount</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -79,15 +79,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id1">Задание 1</label>
+                        <label for="id1">c___mplex - сложный</label>
                     </div>
                     <select name="id1"
                             class="form-control col-4"
                             id="id1">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">a</option>
+                        <option value="2">e</option>
+                        <option value="3">i</option>
+                        <option value="4">o</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -99,15 +99,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id2">Задание 2</label>
+                        <label for="id2">simpl___ - простой</label>
                     </div>
                     <select name="id2"
                             class="form-control col-4"
                             id="id2">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">a</option>
+                        <option value="2">e</option>
+                        <option value="3">i</option>
+                        <option value="4">o</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -119,15 +119,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id3">Задание 3</label>
+                        <label for="id3">ord___r - заказывать</label>
                     </div>
                     <select name="id3"
                             class="form-control col-4"
                             id="id3">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">a</option>
+                        <option value="2">e</option>
+                        <option value="3">i</option>
+                        <option value="4">o</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -146,15 +146,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id1">Задание 1</label>
+                        <label for="id1">program</label>
                     </div>
                     <select name="id1"
                             class="form-control col-4"
                             id="id1">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">программа</option>
+                        <option value="2">звуковая карта</option>
+                        <option value="3">телеграф</option>
+                        <option value="4">диаграмма</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -166,15 +166,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id2">Задание 2</label>
+                        <label for="id2">library</label>
                     </div>
                     <select name="id2"
                             class="form-control col-4"
                             id="id2">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">диск</option>
+                        <option value="2">библиотека</option>
+                        <option value="3">телефон</option>
+                        <option value="4">оболочка</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -186,15 +186,15 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id3">Задание 3</label>
+                        <label for="id3">small</label>
                     </div>
                     <select name="id3"
                             class="form-control col-4"
                             id="id3">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
+                        <option value="1">печатный</option>
+                        <option value="2">сходный</option>
+                        <option value="3">главный</option>
+                        <option value="4">маленький</option>
                     </select>
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -213,13 +213,13 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id4.1">Задание 1</label>
+                        <label for="id4.1">usual</label>
                     </div>
                     <input type="text"
                            class="form-control col-4"
                            name="id4.1"
                            id="id4.1"
-                           placeholder="Ввдеите текст"
+                           placeholder="Введите текст"
                     >
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -231,13 +231,13 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id4.2">Задание 2</label>
+                        <label for="id4.2">mechanic</label>
                     </div>
                     <input type="text"
                            class="form-control col-4"
                            name="id4.2"
                            id="id4.2"
-                           placeholder="Ввдеите текст"
+                           placeholder="Введите текст"
                     >
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -249,13 +249,13 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id4.3">Задание 3</label>
+                        <label for="id4.3">application</label>
                     </div>
                     <input type="text"
                            class="form-control col-4"
                            name="id4.3"
                            id="id4.3"
-                           placeholder="Ввдеите текст"
+                           placeholder="Введите текст"
                     >
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -274,13 +274,13 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id4.1">Задание 1</label>
+                        <label for="id4.1">компьютер</label>
                     </div>
                     <input type="text"
                            class="form-control col-4"
                            name="id4.1"
                            id="id4.1"
-                           placeholder="Ввдеите текст"
+                           placeholder="Введите текст"
                     >
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -292,13 +292,13 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id4.2">Задание 2</label>
+                        <label for="id4.2">регистр</label>
                     </div>
                     <input type="text"
                            class="form-control col-4"
                            name="id4.2"
                            id="id4.2"
-                           placeholder="Ввдеите текст"
+                           placeholder="Введите текст"
                     >
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -310,13 +310,13 @@
             <div class="panel-body">
                 <div class="form-group row">
                     <div class="col-7">
-                        <label for="id4.3">Задание 3</label>
+                        <label for="id4.3">обычный</label>
                     </div>
                     <input type="text"
                            class="form-control col-4"
                            name="id4.3"
                            id="id4.3"
-                           placeholder="Ввдеите текст"
+                           placeholder="Введите текст"
                     >
                     <div class="col-1">
                         <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hand-thumbs-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
